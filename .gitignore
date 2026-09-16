@@ -1,2 +1,14 @@
+
+.venv/
 .env
-.venv
+
+
+# Python cache/artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Editor/OS cruft
+.DS_Store
