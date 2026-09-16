@@ -97,6 +97,8 @@ The app creates the SQLite database and the `expenses` table automatically on st
 python -m pytest -q
 ```
 
+No test files are checked into this repo yet, so this currently reports "no tests ran". This is the command to use once tests are added.
+
 ## Endpoint reference
 
 Base currency is fixed to `INR` for every expense.
